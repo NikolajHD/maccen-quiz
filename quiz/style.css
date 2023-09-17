@@ -1,0 +1,147 @@
+body {
+    background: linear-gradient(to bottom, rgb(171, 7, 7), #dd1010);
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+footer {
+    background-color: #f5cc00;
+    color: black;
+    text-align: center;
+    padding: 20px;
+}
+
+header {
+    background-color: #f5cc00;
+    color: black;
+    text-align: center;
+    padding: 20px;
+}
+
+main {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #f5cc00;
+    text-align: left;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.button {
+    border: none;
+    background-color: #dd1010;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+
+  h2 {
+    color: black;
+    text-align: center;
+    width: 100%;
+}
+
+img {
+    max-width: 50%;
+    height: auto;
+    margin: 5px 0px;
+    border-radius: 2%;
+}
+
+.tabermain {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #dd1010;
+    text-align: left;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.taberfooter {
+    background-color: #dd1010;
+    color: black;
+    text-align: center;
+    padding: 20px;
+}
+
+.taberheader {
+    background-color: #dd1010;
+    color: black;
+    text-align: center;
+    padding: 20px;
+}
+
+.button2 {
+    border: none;
+    background-color:black;
+    color: red;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+
+  .vinderbody {
+    background: linear-gradient(to bottom, rgb(29, 166, 11), rgb(3, 63, 3));
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+  .vindermain {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: green;
+    text-align: left;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.vinderfooter {
+    background-color: green;
+    color: black;
+    text-align: center;
+    padding: 20px;
+}
+
+.vinderheader {
+    background-color: green;
+    color: black;
+    text-align: center;
+    padding: 20px;
+}
+
+.button3 {
+    border: none;
+    background-color:rgb(14, 90, 14);
+    color: rgb(5, 181, 5);
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+
+  .clown {
+    max-width: 10%;
+    height: auto;
+    margin: 5px 0px;
+    border-radius: 2%;
+}
